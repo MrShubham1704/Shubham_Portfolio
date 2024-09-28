@@ -10,5 +10,5 @@
 ### ⚡️ Easy to modify
 
 
-## To view a live example, [click here](https://your-live-website-link.com)
+
 
